@@ -50,3 +50,4 @@ cal.oper.multiply(a: 5, b: 5)
 cal.oper.subtract(a: 10, b: 5)
 cal.modulo(a: 10, b: 3)
 
+cal.modulo(a: 4, b: 3)
